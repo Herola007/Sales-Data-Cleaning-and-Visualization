@@ -24,6 +24,8 @@ The first image illustrates how data can be transferred from Excel into Power Qu
 ![img_one](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09(1).png?raw=true)
 - The highlighted section in the image above indicates the portion of the dataset that will be separated from the larger dataset for further processing. The highlighted section is going to get imported back into Power Query.
 
+![img_two](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(2).png?raw=true)
+-After importing the second part of the dataset back into Power Query, we utilized the Transpose button under the Transform ribbon. This action transposed the table, resulting in the output shown in the image above.
 
 
 
