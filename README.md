@@ -21,6 +21,8 @@ This section will detail the step-by-step process of how the data was transforme
 
 The first image illustrates how data can be transferred from Excel into Power Query. To simplify the analysis process, I returned to Excel and split the dataset into two parts. This division made it easier to manage and clean the data effectively.
 
+![img_one](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09(1).png?raw=true)
+- The highlighted section in the image above indicates the portion of the dataset that will be separated from the larger dataset for further processing. The highlighted section is going to get imported back into Power Query.
 
 
 
