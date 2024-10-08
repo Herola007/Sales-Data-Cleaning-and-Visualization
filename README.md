@@ -30,6 +30,8 @@ The first image illustrates how data can be transferred from Excel into Power Qu
 ![img_four](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(4).png?raw=true)
 - A new column named Segment was added to the transposed table to categorize the modes of shipment.
 
+![img_three](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(3).png?raw=true)
+-Next, I proceeded to unpivot the table, excluding the first two columns that were already pivoted. The image above illustrates the resulting table after this transformation. After completing the modifications for the second part of the dataset, I then loaded the data back into Excel.
 
 
 
