@@ -16,5 +16,12 @@ The dataset provided by the sales team came in a CSV format, which I initially o
 
 This section will detail the step-by-step process of how the data was transformed and cleaned. Screenshots will be provided throughout to visually illustrate each step, along with explanations of what actions were performed and why. At the end of this write-up, I will also include a screenshot of the applied steps in Power Query, summarizing the entire transformation process.
 
+![img_zero](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-08%20(0).png?raw=true)
+- The image above shows the badly structured data after importing into Power Query
+
+The first image illustrates how data can be transferred from Excel into Power Query. To simplify the analysis process, I returned to Excel and split the dataset into two parts. This division made it easier to manage and clean the data effectively.
+
+
+
 
 
