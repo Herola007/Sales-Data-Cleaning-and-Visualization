@@ -42,8 +42,13 @@ After transforming the highlighted portion of the data shown earlier, we can now
 - This image displays the result of pivoting the original dataset, excluding the first column. The first 18 rows will be deleted as they are irrelevant to the analysis, especially since we already have their descriptions in the second dataset.
 
 ![img_seven](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(8).png?raw=true)
-- This is the result of our orginal dataset after been transformed. Now we have two dataset in our Excel workbook.
+- This is the result of our original dataset after being transformed. Now, we have two datasets in our Excel workbook, but both still contain duplicate values. The next step is to remove these duplicates to ensure the data is fully clean.
 
-![img_eight](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(7).png?raw=true)
+![img_eight]
 - This is our first dataset, which has been transformed using Power Query, with each column properly renamed to reflect the appropriate titles.
+
+![img_nine](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(9).png?raw=true)
+-This is our second dataset, which has also been transformed using Power Query, with each column appropriately renamed.
+
+Now to merge the two datasets together we are going to make use of a lookup functions either XLOOKUP or INDEX MATCH FUNCTION to lookup the appropriate values for each OrderId. For this project we are going to be making use of Index match so let's jump right into it
 
