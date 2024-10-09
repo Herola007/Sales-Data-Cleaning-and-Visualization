@@ -52,4 +52,9 @@ After transforming the highlighted portion of the data shown earlier, we can now
 
 To merge the two datasets, we will use a lookup function—either XLOOKUP or the INDEX-MATCH function—to find the appropriate values for each OrderID. For this project, we’ll be using INDEX-MATCH, so let’s dive right into it.
 
-![img_ten]
+![img_ten](https://raw.githubusercontent.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/refs/heads/main/Steps/2024-10-09%20(1010).png)
+
+![img_eleven](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(1111).png?raw=true)
+
+The segment for each Orderid has been successfully retrieved using the formula above. Next, we will use the same approach to find the Ship Mode for each Orderid.
+
