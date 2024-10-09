@@ -44,8 +44,8 @@ After transforming the highlighted portion of the data shown earlier, we can now
 ![img_seven](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(8).png?raw=true)
 - This is the result of our original dataset after being transformed. Now, we have two datasets in our Excel workbook, but both still contain duplicate values. The next step is to remove these duplicates to ensure the data is fully clean.
 
-![img_eight]
-- This is our first dataset, which has been transformed using Power Query, with each column properly renamed to reflect the appropriate titles.
+![img_eight](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(77).png?raw=true)
+-This is our first dataset, transformed using Power Query, with each column properly renamed to reflect the appropriate titles. The dataset is now fully cleaned.
 
 ![img_nine](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(9).png?raw=true)
 -This is our second dataset, which has also been transformed using Power Query, with each column appropriately renamed.
