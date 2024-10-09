@@ -68,5 +68,17 @@ This is the final result of our cleaned and transformed datasets, which will als
 
 ![Dashboard Screenshot](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Dashboard%20Screenshot.png?raw=true)
 
+## Insights
+The dashboard shown above was built using Power BI to visualize key insights from our cleaned dataset. We created several custom measures using DAX (Data Analysis Expressions) within Power BI, allowing us to derive deeper insights, these measures enabled more detailed analysis based on various factors.
+
+**Measures created**
+1. Total Orders = COUNT('Raye Store Cleaned Data'[Order_id])
+2. Segments = DISTINCTCOUNT('Raye Store Cleaned Data'[Segment])
+3. Ship Modes = DISTINCTCOUNT('Raye Store Cleaned Data'[Ship_Mode])
+4. Total Sales Amount = SUM('Raye Store Cleaned Data'[Value])
+5. Avg. Sales Amount = AVERAGE('Raye Store Cleaned Data'[Value])
+
+
+
 
 
