@@ -35,6 +35,9 @@ The first image illustrates how data can be transferred from Excel into Power Qu
 
 After transforming the highlighted portion of the data shown earlier, we can now return to the original dataset to continue with the cleaning process. This step is crucial to ensure that all inconsistencies and inaccuracies are addressed, allowing for a more reliable analysis.
 
+![img_five](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(5).png?raw=true)
+- The image above displays the original dataset that requires transformation before we can proceed.
+
 
 
 
