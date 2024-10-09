@@ -50,5 +50,4 @@ After transforming the highlighted portion of the data shown earlier, we can now
 ![img_nine](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(9).png?raw=true)
 -This is our second dataset, which has also been transformed using Power Query, with each column appropriately renamed.
 
-Now to merge the two datasets together we are going to make use of a lookup functions either XLOOKUP or INDEX MATCH FUNCTION to lookup the appropriate values for each OrderId. For this project we are going to be making use of Index match so let's jump right into it
-
+To merge the two datasets, we will use a lookup function—either XLOOKUP or the INDEX-MATCH function—to find the appropriate values for each OrderID. For this project, we’ll be using INDEX-MATCH, so let’s dive right into it.
