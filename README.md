@@ -62,3 +62,9 @@ The segment for each Orderid has been successfully retrieved using the formula a
 
 ![img_thirteen](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(13).png?raw=true)
 
+![img_fourteen](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(14).png?raw=true)
+
+This is the final result of our cleaned and transformed datasets, which will also be uploaded to this repository as a CSV file. We can now proceed to analyze and visualize this dataset using Microsoft Power BI.
+
+
+
