@@ -58,3 +58,7 @@ To merge the two datasets, we will use a lookup function—either XLOOKUP or the
 
 The segment for each Orderid has been successfully retrieved using the formula above. Next, we will use the same approach to find the Ship Mode for each Orderid.
 
+![img twelve](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(12).png?raw=true)
+
+![img_thirteen](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(13).png?raw=true)
+
