@@ -71,7 +71,7 @@ This is the final result of our cleaned and transformed datasets, which will als
 ## Insights
 The dashboard shown above was built using Power BI to visualize key insights from our cleaned dataset. We created several custom measures using DAX (Data Analysis Expressions) within Power BI, allowing us to derive deeper insights, these measures enabled more detailed analysis based on various factors.
 
-**Measures created**
+**Measures created:**
 1. Total Orders = COUNT('Raye Store Cleaned Data'[Order_id])
 2. Segments = DISTINCTCOUNT('Raye Store Cleaned Data'[Segment])
 3. Ship Modes = DISTINCTCOUNT('Raye Store Cleaned Data'[Ship_Mode])
