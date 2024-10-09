@@ -39,8 +39,10 @@ After transforming the highlighted portion of the data shown earlier, we can now
 - The image above displays the original dataset that requires transformation before we can proceed.
 
 ![img_six](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(6).png?raw=true)
--This image displays the result of pivoting the original dataset, excluding the first column. The first 18 rows will be deleted as they are irrelevant to the analysis, especially since we already have their descriptions in the second dataset.
+- This image displays the result of pivoting the original dataset, excluding the first column. The first 18 rows will be deleted as they are irrelevant to the analysis, especially since we already have their descriptions in the second dataset.
 
+![img_seven](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(8).png?raw=true)
+- This is the result of our orginal dataset after been transformed. Now we have two dataset in our Excel workbook.
 
 
 
