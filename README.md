@@ -44,5 +44,6 @@ After transforming the highlighted portion of the data shown earlier, we can now
 ![img_seven](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(8).png?raw=true)
 - This is the result of our orginal dataset after been transformed. Now we have two dataset in our Excel workbook.
 
-
+![img_eight](https://github.com/Herola007/Raye-Stores-Sales-Data-Cleaning-and-Visualization/blob/main/Steps/2024-10-09%20(7).png?raw=true)
+- This is our first dataset, which has been transformed using Power Query, with each column properly renamed to reflect the appropriate titles.
 
