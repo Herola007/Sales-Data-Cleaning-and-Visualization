@@ -95,6 +95,10 @@ I also visualized the sales amount by ship mode. The Standard Class ship mode wa
 
 4. The Home Office segment had the lowest number of orders 124 and the lowest contribution to sales. Raye Stores may need to explore why this segment underperforms compared to others. This could involve gathering feedback through customer surveys or analyzing market trends to identify gaps.
 
+Thank You!
+
+**Note: All company information is fictional and used for demonstration purposes.**
+
 
 
 
