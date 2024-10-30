@@ -72,11 +72,11 @@ This is the final result of my cleaned and transformed datasets, which will also
 The dashboard shown above was built using Power BI to visualize key insights from my cleaned dataset. I created several custom measures using DAX (Data Analysis Expressions) within Power BI, allowing me to derive deeper insights, these measures enabled more detailed analysis based on various factors.
 
 **Measures created:**
-1. Total Orders = COUNT('Raye Store Cleaned Data'[Order_id])
-2. Segments = DISTINCTCOUNT('Raye Store Cleaned Data'[Segment])
-3. Ship Modes = DISTINCTCOUNT('Raye Store Cleaned Data'[Ship_Mode])
-4. Total Sales Amount = SUM('Raye Store Cleaned Data'[Value])
-5. Avg. Sales Amount = AVERAGE('Raye Store Cleaned Data'[Value])
+1. **Total Orders** = COUNT('Raye Store Cleaned Data'[Order_id])
+2. **Segments** = DISTINCTCOUNT('Raye Store Cleaned Data'[Segment])
+3. **Ship Modes** = DISTINCTCOUNT('Raye Store Cleaned Data'[Ship_Mode])
+4. **Total Sales Amount** = SUM('Raye Store Cleaned Data'[Value])
+5. **Avg. Sales Amount** = AVERAGE('Raye Store Cleaned Data'[Value])
 
 The dashboard I built for Raye Stores provides a detailed overview of their sales and order performance. It shows that the store processed a total of 822 orders, spread across 3 distinct customer segments and 4 different ship modes. The total sales amount was $392,000, with an average sales value of $476.55 per order.
 
